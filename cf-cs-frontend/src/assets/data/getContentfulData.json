@@ -1,0 +1,1662 @@
+{
+  "name": "Home",
+  "title": "Home",
+  "slug": "home",
+  "seo": {
+    "metadata": {
+      "tags": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "567staco9tan"
+        }
+      },
+      "id": "5OKeia5UrVvKfoI56sgJH0",
+      "type": "Entry",
+      "createdAt": "2022-03-08T04:24:15.236Z",
+      "updatedAt": "2022-03-10T09:33:01.907Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 10,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "seo"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "name": "Home - Compose: SEO",
+      "title": "home",
+      "description": "home",
+      "no_index": false,
+      "no_follow": false
+    }
+  },
+  "content": {
+    "metadata": {
+      "tags": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "567staco9tan"
+        }
+      },
+      "id": "l2pJI71VpSZnNWtnrhuUx",
+      "type": "Entry",
+      "createdAt": "2022-03-08T04:24:15.255Z",
+      "updatedAt": "2022-03-10T09:33:01.926Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 10,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "pageHome"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "name": "Home - home",
+      "image_with_text_slider": [
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "567staco9tan"
+              }
+            },
+            "id": "2T0tyx5RSfkz31qRLuSg0h",
+            "type": "Entry",
+            "createdAt": "2022-03-08T12:23:46.037Z",
+            "updatedAt": "2022-03-10T09:33:01.955Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 8,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "comSliderWithText"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "imageText": "Slider Text 1",
+            "sliderImage": {
+              "metadata": {
+                "tags": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "567staco9tan"
+                  }
+                },
+                "id": "2Pho1vu002LZCuhAuRXB9Y",
+                "type": "Asset",
+                "createdAt": "2022-03-08T12:19:56.035Z",
+                "updatedAt": "2022-03-10T09:33:01.775Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "revision": 9,
+                "locale": "en-US"
+              },
+              "fields": {
+                "title": "banner3",
+                "file": {
+                  "url": "//images.ctfassets.net/567staco9tan/2Pho1vu002LZCuhAuRXB9Y/a0f6bd3ff3530035e2b04dba043cd706/banner3.jpg",
+                  "details": {
+                    "size": 848049,
+                    "image": {
+                      "width": 4080,
+                      "height": 2720
+                    }
+                  },
+                  "fileName": "banner3.jpg",
+                  "contentType": "image/jpeg"
+                }
+              }
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "567staco9tan"
+              }
+            },
+            "id": "7xBXX0TLh6wXWilglafRh8",
+            "type": "Entry",
+            "createdAt": "2022-03-08T12:23:46.056Z",
+            "updatedAt": "2022-03-10T09:33:01.979Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 8,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "comSliderWithText"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "imageText": "slider text 2",
+            "sliderImage": {
+              "metadata": {
+                "tags": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "567staco9tan"
+                  }
+                },
+                "id": "2tTihjHoQ8TxjqtsimXMYa",
+                "type": "Asset",
+                "createdAt": "2022-03-08T12:19:56.008Z",
+                "updatedAt": "2022-03-10T09:33:01.785Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "revision": 9,
+                "locale": "en-US"
+              },
+              "fields": {
+                "title": "banner8",
+                "file": {
+                  "url": "//images.ctfassets.net/567staco9tan/2tTihjHoQ8TxjqtsimXMYa/ed092f4fbe6ccdd42c4cd2cee80a3e14/banner8.jpg",
+                  "details": {
+                    "size": 2145855,
+                    "image": {
+                      "width": 6016,
+                      "height": 4000
+                    }
+                  },
+                  "fileName": "banner8.jpg",
+                  "contentType": "image/jpeg"
+                }
+              }
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "567staco9tan"
+              }
+            },
+            "id": "2xtx1JTYGRiETNR8AxMB6f",
+            "type": "Entry",
+            "createdAt": "2022-03-08T12:27:50.696Z",
+            "updatedAt": "2022-03-10T09:33:01.998Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 6,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "comSliderWithText"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "imageText": "slider home page 3",
+            "sliderImage": {
+              "metadata": {
+                "tags": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "567staco9tan"
+                  }
+                },
+                "id": "1gVfE6kGkjoGjavGeJYp2L",
+                "type": "Asset",
+                "createdAt": "2022-03-08T12:09:13.691Z",
+                "updatedAt": "2022-03-10T09:33:01.801Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "revision": 7,
+                "locale": "en-US"
+              },
+              "fields": {
+                "title": "banner desktop",
+                "file": {
+                  "url": "//images.ctfassets.net/567staco9tan/1gVfE6kGkjoGjavGeJYp2L/370644eceb1131d94d017aae80d2c9ee/banner_desktop.jpg",
+                  "details": {
+                    "size": 47126,
+                    "image": {
+                      "width": 1600,
+                      "height": 400
+                    }
+                  },
+                  "fileName": "banner_desktop.jpg",
+                  "contentType": "image/jpeg"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "home_service_gallery_view": [
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "567staco9tan"
+              }
+            },
+            "id": "29An8myzIeeDrR8DsseHCp",
+            "type": "Entry",
+            "createdAt": "2022-03-08T12:27:50.720Z",
+            "updatedAt": "2022-03-10T09:33:02.019Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 6,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "galleryView"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Home service gallery view 1",
+            "box": [
+              {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "567staco9tan"
+                    }
+                  },
+                  "id": "1I5JVy357WVA1BX5Rt0AXT",
+                  "type": "Entry",
+                  "createdAt": "2022-03-08T12:27:50.737Z",
+                  "updatedAt": "2022-03-10T09:33:02.036Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 6,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "compBanner"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "text": "Womens Jeans",
+                  "image": {
+                    "metadata": {
+                      "tags": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "567staco9tan"
+                        }
+                      },
+                      "id": "4ETkA9p4tVQ1XWck4EbRw1",
+                      "type": "Asset",
+                      "createdAt": "2022-03-08T12:19:56.013Z",
+                      "updatedAt": "2022-03-10T09:33:01.813Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "revision": 7,
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "title": "jeans1",
+                      "file": {
+                        "url": "//images.ctfassets.net/567staco9tan/4ETkA9p4tVQ1XWck4EbRw1/f6894754e10d476dcd17a1fc7276f85a/jeans1.jpg",
+                        "details": {
+                          "size": 788533,
+                          "image": {
+                            "width": 1920,
+                            "height": 2880
+                          }
+                        },
+                        "fileName": "jeans1.jpg",
+                        "contentType": "image/jpeg"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "567staco9tan"
+              }
+            },
+            "id": "seeJ55uo5Rc4B1H1IfIsy",
+            "type": "Entry",
+            "createdAt": "2022-03-08T12:27:50.830Z",
+            "updatedAt": "2022-03-10T09:33:02.057Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 6,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "galleryView"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Home service gallery view 2",
+            "box": [
+              {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "567staco9tan"
+                    }
+                  },
+                  "id": "5X1xMywg2iPnfPjpJCZnxT",
+                  "type": "Entry",
+                  "createdAt": "2022-03-08T12:27:50.854Z",
+                  "updatedAt": "2022-03-10T09:33:02.075Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 6,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "compBanner"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "text": "Sneakers ",
+                  "image": {
+                    "metadata": {
+                      "tags": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "567staco9tan"
+                        }
+                      },
+                      "id": "1zoUoqtnaEBL46y8KcV9Hf",
+                      "type": "Asset",
+                      "createdAt": "2022-03-08T12:19:56.064Z",
+                      "updatedAt": "2022-03-10T09:33:01.818Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "revision": 12,
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "title": "sho3",
+                      "file": {
+                        "url": "//images.ctfassets.net/567staco9tan/1zoUoqtnaEBL46y8KcV9Hf/f0899aa5e50c829251d0223dda50008d/sho3.jpg",
+                        "details": {
+                          "size": 291534,
+                          "image": {
+                            "width": 2400,
+                            "height": 1600
+                          }
+                        },
+                        "fileName": "sho3.jpg",
+                        "contentType": "image/jpeg"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "567staco9tan"
+                    }
+                  },
+                  "id": "7qu3So8uvd9qR7inKfo481",
+                  "type": "Entry",
+                  "createdAt": "2022-03-08T12:27:50.874Z",
+                  "updatedAt": "2022-03-10T09:33:02.093Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 6,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "compBanner"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "text": "ACCESSORIES",
+                  "image": {
+                    "metadata": {
+                      "tags": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "567staco9tan"
+                        }
+                      },
+                      "id": "3ozKYx2amY7NSqri4GskAz",
+                      "type": "Asset",
+                      "createdAt": "2022-03-08T12:19:56.042Z",
+                      "updatedAt": "2022-03-10T09:33:01.824Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "revision": 7,
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "title": "acc",
+                      "file": {
+                        "url": "//images.ctfassets.net/567staco9tan/3ozKYx2amY7NSqri4GskAz/bfa1410ec77f972693f95c883460421d/acc.jpg",
+                        "details": {
+                          "size": 4153675,
+                          "image": {
+                            "width": 3578,
+                            "height": 2803
+                          }
+                        },
+                        "fileName": "acc.jpg",
+                        "contentType": "image/jpeg"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "567staco9tan"
+              }
+            },
+            "id": "4HsYMLZd7XArtdCNtXWP0X",
+            "type": "Entry",
+            "createdAt": "2022-03-08T12:27:50.896Z",
+            "updatedAt": "2022-03-10T09:33:02.113Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 6,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "galleryView"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Home service gallery view 3",
+            "box": [
+              {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "567staco9tan"
+                    }
+                  },
+                  "id": "76KppVPTOuhTUYRueKKciQ",
+                  "type": "Entry",
+                  "createdAt": "2022-03-08T12:27:50.916Z",
+                  "updatedAt": "2022-03-10T09:33:02.137Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 6,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "compBanner"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "text": "Bathing Suits",
+                  "image": {
+                    "metadata": {
+                      "tags": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "567staco9tan"
+                        }
+                      },
+                      "id": "70uPXQ5pCVOOraHRidkYEm",
+                      "type": "Asset",
+                      "createdAt": "2022-03-08T12:19:56.019Z",
+                      "updatedAt": "2022-03-10T09:33:01.829Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "revision": 7,
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "title": "s3",
+                      "file": {
+                        "url": "//images.ctfassets.net/567staco9tan/70uPXQ5pCVOOraHRidkYEm/5e2a4452e120261d2a6ff63a398824e6/s3.jpg",
+                        "details": {
+                          "size": 2231697,
+                          "image": {
+                            "width": 1886,
+                            "height": 2830
+                          }
+                        },
+                        "fileName": "s3.jpg",
+                        "contentType": "image/jpeg"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "home_service_gallery_view2": [
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "567staco9tan"
+              }
+            },
+            "id": "seeJ55uo5Rc4B1H1IfIsy",
+            "type": "Entry",
+            "createdAt": "2022-03-08T12:27:50.830Z",
+            "updatedAt": "2022-03-10T09:33:02.057Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 6,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "galleryView"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Home service gallery view 2",
+            "box": [
+              {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "567staco9tan"
+                    }
+                  },
+                  "id": "5X1xMywg2iPnfPjpJCZnxT",
+                  "type": "Entry",
+                  "createdAt": "2022-03-08T12:27:50.854Z",
+                  "updatedAt": "2022-03-10T09:33:02.075Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 6,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "compBanner"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "text": "Sneakers ",
+                  "image": {
+                    "metadata": {
+                      "tags": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "567staco9tan"
+                        }
+                      },
+                      "id": "1zoUoqtnaEBL46y8KcV9Hf",
+                      "type": "Asset",
+                      "createdAt": "2022-03-08T12:19:56.064Z",
+                      "updatedAt": "2022-03-10T09:33:01.818Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "revision": 12,
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "title": "sho3",
+                      "file": {
+                        "url": "//images.ctfassets.net/567staco9tan/1zoUoqtnaEBL46y8KcV9Hf/f0899aa5e50c829251d0223dda50008d/sho3.jpg",
+                        "details": {
+                          "size": 291534,
+                          "image": {
+                            "width": 2400,
+                            "height": 1600
+                          }
+                        },
+                        "fileName": "sho3.jpg",
+                        "contentType": "image/jpeg"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "567staco9tan"
+                    }
+                  },
+                  "id": "7qu3So8uvd9qR7inKfo481",
+                  "type": "Entry",
+                  "createdAt": "2022-03-08T12:27:50.874Z",
+                  "updatedAt": "2022-03-10T09:33:02.093Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 6,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "compBanner"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "text": "ACCESSORIES",
+                  "image": {
+                    "metadata": {
+                      "tags": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "567staco9tan"
+                        }
+                      },
+                      "id": "3ozKYx2amY7NSqri4GskAz",
+                      "type": "Asset",
+                      "createdAt": "2022-03-08T12:19:56.042Z",
+                      "updatedAt": "2022-03-10T09:33:01.824Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "revision": 7,
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "title": "acc",
+                      "file": {
+                        "url": "//images.ctfassets.net/567staco9tan/3ozKYx2amY7NSqri4GskAz/bfa1410ec77f972693f95c883460421d/acc.jpg",
+                        "details": {
+                          "size": 4153675,
+                          "image": {
+                            "width": 3578,
+                            "height": 2803
+                          }
+                        },
+                        "fileName": "acc.jpg",
+                        "contentType": "image/jpeg"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "567staco9tan"
+              }
+            },
+            "id": "4HsYMLZd7XArtdCNtXWP0X",
+            "type": "Entry",
+            "createdAt": "2022-03-08T12:27:50.896Z",
+            "updatedAt": "2022-03-10T09:33:02.113Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 6,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "galleryView"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Home service gallery view 3",
+            "box": [
+              {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "567staco9tan"
+                    }
+                  },
+                  "id": "76KppVPTOuhTUYRueKKciQ",
+                  "type": "Entry",
+                  "createdAt": "2022-03-08T12:27:50.916Z",
+                  "updatedAt": "2022-03-10T09:33:02.137Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 6,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "compBanner"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "text": "Bathing Suits",
+                  "image": {
+                    "metadata": {
+                      "tags": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "567staco9tan"
+                        }
+                      },
+                      "id": "70uPXQ5pCVOOraHRidkYEm",
+                      "type": "Asset",
+                      "createdAt": "2022-03-08T12:19:56.019Z",
+                      "updatedAt": "2022-03-10T09:33:01.829Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "revision": 7,
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "title": "s3",
+                      "file": {
+                        "url": "//images.ctfassets.net/567staco9tan/70uPXQ5pCVOOraHRidkYEm/5e2a4452e120261d2a6ff63a398824e6/s3.jpg",
+                        "details": {
+                          "size": 2231697,
+                          "image": {
+                            "width": 1886,
+                            "height": 2830
+                          }
+                        },
+                        "fileName": "s3.jpg",
+                        "contentType": "image/jpeg"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "567staco9tan"
+              }
+            },
+            "id": "seeJ55uo5Rc4B1H1IfIsy",
+            "type": "Entry",
+            "createdAt": "2022-03-08T12:27:50.830Z",
+            "updatedAt": "2022-03-10T09:33:02.057Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 6,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "galleryView"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Home service gallery view 2",
+            "box": [
+              {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "567staco9tan"
+                    }
+                  },
+                  "id": "5X1xMywg2iPnfPjpJCZnxT",
+                  "type": "Entry",
+                  "createdAt": "2022-03-08T12:27:50.854Z",
+                  "updatedAt": "2022-03-10T09:33:02.075Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 6,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "compBanner"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "text": "Sneakers ",
+                  "image": {
+                    "metadata": {
+                      "tags": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "567staco9tan"
+                        }
+                      },
+                      "id": "1zoUoqtnaEBL46y8KcV9Hf",
+                      "type": "Asset",
+                      "createdAt": "2022-03-08T12:19:56.064Z",
+                      "updatedAt": "2022-03-10T09:33:01.818Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "revision": 12,
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "title": "sho3",
+                      "file": {
+                        "url": "//images.ctfassets.net/567staco9tan/1zoUoqtnaEBL46y8KcV9Hf/f0899aa5e50c829251d0223dda50008d/sho3.jpg",
+                        "details": {
+                          "size": 291534,
+                          "image": {
+                            "width": 2400,
+                            "height": 1600
+                          }
+                        },
+                        "fileName": "sho3.jpg",
+                        "contentType": "image/jpeg"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "567staco9tan"
+                    }
+                  },
+                  "id": "7qu3So8uvd9qR7inKfo481",
+                  "type": "Entry",
+                  "createdAt": "2022-03-08T12:27:50.874Z",
+                  "updatedAt": "2022-03-10T09:33:02.093Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 6,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "compBanner"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "text": "ACCESSORIES",
+                  "image": {
+                    "metadata": {
+                      "tags": []
+                    },
+                    "sys": {
+                      "space": {
+                        "sys": {
+                          "type": "Link",
+                          "linkType": "Space",
+                          "id": "567staco9tan"
+                        }
+                      },
+                      "id": "3ozKYx2amY7NSqri4GskAz",
+                      "type": "Asset",
+                      "createdAt": "2022-03-08T12:19:56.042Z",
+                      "updatedAt": "2022-03-10T09:33:01.824Z",
+                      "environment": {
+                        "sys": {
+                          "id": "master",
+                          "type": "Link",
+                          "linkType": "Environment"
+                        }
+                      },
+                      "revision": 7,
+                      "locale": "en-US"
+                    },
+                    "fields": {
+                      "title": "acc",
+                      "file": {
+                        "url": "//images.ctfassets.net/567staco9tan/3ozKYx2amY7NSqri4GskAz/bfa1410ec77f972693f95c883460421d/acc.jpg",
+                        "details": {
+                          "size": 4153675,
+                          "image": {
+                            "width": 3578,
+                            "height": 2803
+                          }
+                        },
+                        "fileName": "acc.jpg",
+                        "contentType": "image/jpeg"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "service_card": [
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "567staco9tan"
+              }
+            },
+            "id": "2wjHbC8S78eQQPILGb2AL0",
+            "type": "Entry",
+            "createdAt": "2022-03-10T09:33:02.158Z",
+            "updatedAt": "2022-03-10T09:33:02.158Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "compServiceCard"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Free Worldwide Shipping",
+            "description": "On all orders over €100",
+            "iconClass": "las la-shipping-fast"
+          }
+        }
+      ],
+      "footer": [
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "567staco9tan"
+              }
+            },
+            "id": "6LJqjE8JaqO5MDiyXhejZN",
+            "type": "Entry",
+            "createdAt": "2022-03-10T08:49:42.349Z",
+            "updatedAt": "2022-03-10T09:33:02.176Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 4,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "compFooterLogoContainer"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "text": "PO Box 1622 Colins Street West",
+            "logo": {
+              "metadata": {
+                "tags": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "567staco9tan"
+                  }
+                },
+                "id": "3iAflptJarhxu6lBtdHJtZ",
+                "type": "Entry",
+                "createdAt": "2022-03-10T08:49:42.372Z",
+                "updatedAt": "2022-03-10T09:33:02.193Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "revision": 4,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "compWebsiteLogo"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "image": {
+                  "metadata": {
+                    "tags": []
+                  },
+                  "sys": {
+                    "space": {
+                      "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "567staco9tan"
+                      }
+                    },
+                    "id": "1w0SAI7Qtcp3Ybb7OzR1tZ",
+                    "type": "Asset",
+                    "createdAt": "2022-03-10T08:49:41.998Z",
+                    "updatedAt": "2022-03-10T09:33:01.838Z",
+                    "environment": {
+                      "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                      }
+                    },
+                    "revision": 4,
+                    "locale": "en-US"
+                  },
+                  "fields": {
+                    "title": "logo",
+                    "file": {
+                      "url": "//images.ctfassets.net/567staco9tan/1w0SAI7Qtcp3Ybb7OzR1tZ/8f8fb6daf202eef14209c6dcafa40e53/logo.svg",
+                      "details": {
+                        "size": 2987,
+                        "image": {
+                          "width": 456,
+                          "height": 101
+                        }
+                      },
+                      "fileName": "logo.svg",
+                      "contentType": "image/svg+xml"
+                    }
+                  }
+                },
+                "url": "/"
+              }
+            },
+            "link": [
+              {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "567staco9tan"
+                    }
+                  },
+                  "id": "yeVQKhUnnTkCc5ypTPwyc",
+                  "type": "Entry",
+                  "createdAt": "2022-03-10T08:58:15.188Z",
+                  "updatedAt": "2022-03-10T09:33:02.212Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 3,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "comNavLink"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "text": "info@example.com",
+                  "url": "mailto:info@example.com"
+                }
+              },
+              {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "567staco9tan"
+                    }
+                  },
+                  "id": "3XyrXVVSj02rl7Z0GZ2ayK",
+                  "type": "Entry",
+                  "createdAt": "2022-03-10T08:58:15.204Z",
+                  "updatedAt": "2022-03-10T09:33:02.231Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 3,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "comNavLink"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "text": "+49 (899) 9829960",
+                  "url": "tel:+49 (899) 9829960"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "567staco9tan"
+              }
+            },
+            "id": "5QrowHbMdmEKJgAsGhglCv",
+            "type": "Entry",
+            "createdAt": "2022-03-10T08:58:15.223Z",
+            "updatedAt": "2022-03-10T09:33:02.275Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 3,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "compFooterNavLink"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Company",
+            "navLink": [
+              {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "567staco9tan"
+                    }
+                  },
+                  "id": "4jReMeRdUD89hd23hBRm3w",
+                  "type": "Entry",
+                  "createdAt": "2022-03-10T08:58:15.241Z",
+                  "updatedAt": "2022-03-10T09:33:02.296Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 3,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "comNavLink"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "text": "about",
+                  "url": "/about"
+                }
+              },
+              {
+                "metadata": {
+                  "tags": []
+                },
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "567staco9tan"
+                    }
+                  },
+                  "id": "5GIWSwFFqBsx3hLyfc4qzZ",
+                  "type": "Entry",
+                  "createdAt": "2022-03-10T08:58:15.258Z",
+                  "updatedAt": "2022-03-10T09:33:02.317Z",
+                  "environment": {
+                    "sys": {
+                      "id": "master",
+                      "type": "Link",
+                      "linkType": "Environment"
+                    }
+                  },
+                  "revision": 3,
+                  "contentType": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "ContentType",
+                      "id": "comNavLink"
+                    }
+                  },
+                  "locale": "en-US"
+                },
+                "fields": {
+                  "text": "jobs",
+                  "url": "/jobs"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "567staco9tan"
+              }
+            },
+            "id": "4GxZjRK05Rd5KVg1QjoSIo",
+            "type": "Entry",
+            "createdAt": "2022-03-10T08:58:59.604Z",
+            "updatedAt": "2022-03-10T09:33:02.336Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 2,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "compJoinNewsLetter"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "JOIN OUR NEWSLETTER",
+            "submiText": "submit",
+            "inputPlaceholder": "enter your email"
+          }
+        }
+      ]
+    }
+  }
+}
